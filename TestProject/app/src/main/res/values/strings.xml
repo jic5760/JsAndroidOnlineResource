@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JsAndroidOnlineResource Test</string>
+
+    <string name="app_jaor_serverurl">http://192.168.20.10/jaortest/</string>
+
+    <string name="test1">Application internal resource : test1</string>
+    <string name="test2">Application internal resource : test2</string>
+</resources>
